@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Krypto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="next">NExt</string>
+    <string name="pick_from_gallery">Pick from gallery</string>
+    <string name="click">CLick</string>
+    <string name="title_activity_image__process">Image_PRocess</string>
+</resources>

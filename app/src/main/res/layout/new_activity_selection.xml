@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="5dp"
+    android:columnCount="2">
+
+
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_camera"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="5dp"
+        android:layout_margin="6dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        >
+
+        <ImageView
+            android:layout_height="100dp"
+            android:background="@drawable/photo_camera_new"
+            android:id="@+id/imageCamera"
+            android:scaleType="center"
+            android:layout_width="100dp"
+            android:layout_below="@+id/button5"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2"
+            android:layout_marginTop="-16dp"
+            android:layout_gravity="center"
+
+            />
+
+        <TextView
+            android:text="Imagica"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="150dp"
+            android:gravity="center"
+
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view_sound"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="5dp"
+        android:layout_margin="6dp"
+        >
+        <ImageView
+            android:layout_height="100dp"
+            android:background="@drawable/sound_new"
+            android:id="@+id/imageSound"
+            android:scaleType="center"
+            android:layout_width="100dp"
+            android:layout_below="@+id/button5"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2"
+            android:layout_marginTop="-16dp"
+            android:layout_gravity="center"
+
+            />
+
+        <TextView
+            android:text="Phonoholic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="150dp"
+            android:gravity="center" />
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view_microphone"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="5dp"
+        android:layout_margin="6dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        >
+
+        <ImageView
+            android:layout_height="100dp"
+            android:background="@drawable/microphone"
+            android:id="@+id/imageMicrophone"
+            android:scaleType="center"
+            android:layout_width="100dp"
+            android:layout_below="@+id/button5"
+            android:layout_alignLeft="@+id/imageView2"
+            android:layout_alignStart="@+id/imageView2"
+            android:layout_marginTop="-16dp"
+            android:layout_gravity="center"
+
+            />
+
+        <TextView
+            android:text="Scribbling"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="150dp"
+            android:gravity="center" />
+
+    </android.support.v7.widget.CardView>
+
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view_help"
+    android:layout_gravity="center"
+    android:layout_width="150dp"
+    android:layout_height="250dp"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardElevation="5dp"
+    android:layout_margin="6dp">
+    <ImageView
+        android:layout_height="100dp"
+        android:background="@drawable/info_new"
+        android:id="@+id/imageInfo"
+        android:scaleType="center"
+        android:layout_width="100dp"
+        android:layout_below="@+id/button5"
+        android:layout_alignLeft="@+id/imageView2"
+        android:layout_alignStart="@+id/imageView2"
+        android:layout_marginTop="-16dp"
+        android:layout_gravity="center"
+
+        />
+
+    <TextView
+        android:text="Help"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:gravity="center" />
+
+</android.support.v7.widget.CardView>
+
+</GridLayout>
