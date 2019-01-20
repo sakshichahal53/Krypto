@@ -4,6 +4,7 @@
 The application consists of three major uses:
 1. **Reading** - The image of the article taken is converted to text format via **Tesseract OCR** library.
    Image enhancement techniques were used to improve the quality of image and henceforth, the accuracy of OCR.
+   This includes usage of **ScanLibrary** for Android-Native.
    The application then converts each text to a **Spannable String** which is clickable and provides with another three options
    to work on: </br>
       (i) Meaning -through wordsApi </br>
