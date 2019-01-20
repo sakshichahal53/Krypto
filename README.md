@@ -14,3 +14,4 @@ The application consists of three major uses:
 3. **Speech to text** via Google mike integration
 
 ![alt text](https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png = 200x400)
+<img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
