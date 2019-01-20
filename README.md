@@ -13,7 +13,7 @@ The application consists of three major uses:
 2. **Text to speech** to find the pronounciation of a word.
 3. **Speech to text** via Google mike integration
 <p float="left">
-  <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png" width="200" height="400" />
+  <img align="center" src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png" width="200" height="400" />
   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-11.png" width="200" height="400" />
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-37-35.png" width="200" height="400" /> 
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-17.png" width="200" height="400" /> 
