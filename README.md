@@ -16,6 +16,7 @@ The application consists of three major uses:
   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png" width="200" height="400" />
   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-11.png" width="200" height="400" />
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-37-35.png" width="200" height="400" /> 
+   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-17.png" width="200" height="400" /> 
 </p>
 
 <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-05.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
