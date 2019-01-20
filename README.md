@@ -19,9 +19,11 @@ The application consists of three major uses:
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-35-17.png" width="200" height="400" /> 
 </p>
 </br>
-<p float="left">
+<p float="center">
   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-42-36.png" width="200" height="400" />
   <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-42-47.png" width="200" height="400" />
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-42-58.png" width="200" height="400" /> 
    <img src="https://github.com/sakshichahal53/Krypto/blob/master/krypto%20scs/Copy%20of%20Screenshot_2017-04-24-12-43-14.png" width="200" height="400" /> 
 </p>
+
+
