@@ -9,6 +9,6 @@ The application consists of three major uses:
       (i) Meaning -through wordsApi </br>
       (ii) Pronounciation- using tts of Android </br>
       (iii) Add to Dictionary - stores the majorly used words to the local dB.</br>
-2. Text to speech to find the pronounciation of a word.
-3. Speech to text via Google mike integration
+2. **Text to speech** to find the pronounciation of a word.
+3. **Speech to text** via Google mike integration
 
