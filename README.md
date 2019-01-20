@@ -13,3 +13,4 @@ The application consists of three major uses:
 2. **Text to speech** to find the pronounciation of a word.
 3. **Speech to text** via Google mike integration
 
+![alt text](https://raw.githubusercontent.com/sakshichahal53/Krypto/master/krypto scs/Copy of Screenshot_2017-04-24-12-35-05.png)
